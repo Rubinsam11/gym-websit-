@@ -79,7 +79,7 @@ const Footer = () => {
         </div>
         
         <div className="footer-copyright">
-          &copy; {new Date().getFullYear()} FitnessFusion. All Rights Reserved.
+          &copy; {new Date().getFullYear()} Rubin sam s. All Rights Reserved.
         </div>
       </div>
     </footer>
